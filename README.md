@@ -1,5 +1,5 @@
 # django-docs
-## create a folder python-django
+create a folder python-django
 create a virtual environment 
 activate virtual environment
 install python
